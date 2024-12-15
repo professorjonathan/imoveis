@@ -1,58 +1,60 @@
-[
-  {
-    "id": 1,
-    "nome": "Apartamento Compacto",
-    "localizacao": "Capão da Canoa",
-    "preco": 180000,
-    "imagem": "https://pointer.com.br/blog/wp-content/uploads/2021/02/5a8c590ea936140d7f6def44-1536x864.jpg"
-  },
-  {
-    "id": 2,
-    "nome": "Casa de Praia",
-    "localizacao": "Capão da Canoa",
-    "preco": 230000,
-    "imagem": "https://images.adsttc.com/media/images/6483/6081/212a/051f/fd5a/5e90/slideshow/casa-na-praia-da-baleia-two-arquitetura_23.jpg?1686331542"
-  },
-  {
-    "id": 3,
-    "nome": "Apartamento Novo",
-    "localizacao": "Porto Alegre",
-    "preco": 450000,
-    "imagem": "https://www.galeriadaarquitetura.com.br/img//projeto/SF1/3358/apartamento-novo-higienopolis011.jpg"
-  },
-  {
-    "id": 4,
-    "nome": "Cobertura de Luxo",
-    "localizacao": "Porto Alegre",
-    "preco": 850000,
-    "imagem": "https://www.luxuryproperties.com.br/exportacao/fotos/20240827T1449250300-334576050.jpg"
-  },
-  {
-    "id": 5,
-    "nome": "Casa com Jardim",
-    "localizacao": "São Leopoldo",
-    "preco": 350000,
-    "imagem": "https://images.adsttc.com/media/images/5d1d/2985/284d/d16c/4100/00cc/slideshow/0FEATURED_IMAGE_02.jpg?1562192229"
-  },
-  {
-    "id": 6,
-    "nome": "Sobrado Moderno",
-    "localizacao": "São Leopoldo",
-    "preco": 490000,
-    "imagem": "https://archshop.com.br/_next/image?url=https%3A%2F%2Fadmin.archshop.com.br%2Fuploads%2F001_29f5b9c1f5.jpg&w=1080&q=100"
-  },
-  {
-    "id": 7,
-    "nome": "Casa Grande",
-    "localizacao": "São Leopoldo",
-    "preco": 550000,
-    "imagem": "https://img.freepik.com/fotos-premium/uma-casa-com-piscina-e-uma-piscina-grande_865967-26466.jpg?w=740"
-  },
-  {
-    "id": 8,
-    "nome": "Apartamento Vista Mar",
-    "localizacao": "Porto Alegre",
-    "preco": 620000,
-    "imagem": "https://s2.glbimg.com/AZADO_mqBr-ihyOfqz7Q5fd6i0s=/620x455/e.glbimg.com/og/ed/f/original/2020/12/21/apartamento_em_niteri_assinado_pela_arquiteta_amanda_miranda___foto_2.jpg"
-  }
-]
+{
+  "imoveis": [
+    {
+      "id": 1,
+      "nome": "Apartamento Compacto",
+      "localizacao": "Capão da Canoa",
+      "preco": 180000,
+      "imagem": "https://pointer.com.br/blog/wp-content/uploads/2021/02/5a8c590ea936140d7f6def44-1536x864.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Casa de Praia",
+      "localizacao": "Capão da Canoa",
+      "preco": 230000,
+      "imagem": "https://images.adsttc.com/media/images/6483/6081/212a/051f/fd5a/5e90/slideshow/casa-na-praia-da-baleia-two-arquitetura_23.jpg?1686331542"
+    },
+    {
+      "id": 3,
+      "nome": "Apartamento Novo",
+      "localizacao": "Porto Alegre",
+      "preco": 450000,
+      "imagem": "https://www.galeriadaarquitetura.com.br/img//projeto/SF1/3358/apartamento-novo-higienopolis011.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Cobertura de Luxo",
+      "localizacao": "Porto Alegre",
+      "preco": 850000,
+      "imagem": "https://www.luxuryproperties.com.br/exportacao/fotos/20240827T1449250300-334576050.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Casa com Jardim",
+      "localizacao": "São Leopoldo",
+      "preco": 350000,
+      "imagem": "https://images.adsttc.com/media/images/5d1d/2985/284d/d16c/4100/00cc/slideshow/0FEATURED_IMAGE_02.jpg?1562192229"
+    },
+    {
+      "id": 6,
+      "nome": "Sobrado Moderno",
+      "localizacao": "São Leopoldo",
+      "preco": 490000,
+      "imagem": "https://archshop.com.br/_next/image?url=https%3A%2F%2Fadmin.archshop.com.br%2Fuploads%2F001_29f5b9c1f5.jpg&w=1080&q=100"
+    },
+    {
+      "id": 7,
+      "nome": "Casa Grande",
+      "localizacao": "São Leopoldo",
+      "preco": 550000,
+      "imagem": "https://img.freepik.com/fotos-premium/uma-casa-com-piscina-e-uma-piscina-grande_865967-26466.jpg?w=740"
+    },
+    {
+      "id": 8,
+      "nome": "Apartamento Vista Mar",
+      "localizacao": "Porto Alegre",
+      "preco": 620000,
+      "imagem": "https://s2.glbimg.com/AZADO_mqBr-ihyOfqz7Q5fd6i0s=/620x455/e.glbimg.com/og/ed/f/original/2020/12/21/apartamento_em_niteri_assinado_pela_arquiteta_amanda_miranda___foto_2.jpg"
+    }
+  ]
+}
