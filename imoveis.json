@@ -39,14 +39,14 @@
       "id": 6,
       "nome": "Sobrado Moderno",
       "localizacao": "São Leopoldo",
-      "preco": 490000,
+      "preco": 400000,
       "imagem": "https://archshop.com.br/_next/image?url=https%3A%2F%2Fadmin.archshop.com.br%2Fuploads%2F001_29f5b9c1f5.jpg&w=1080&q=100"
     },
     {
       "id": 7,
       "nome": "Casa Grande",
       "localizacao": "São Leopoldo",
-      "preco": 550000,
+      "preco": 480000,
       "imagem": "https://img.freepik.com/fotos-premium/uma-casa-com-piscina-e-uma-piscina-grande_865967-26466.jpg?w=740"
     },
     {
